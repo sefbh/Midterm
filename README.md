@@ -1,5 +1,7 @@
 Analyzing Bias in Healthcare Predictive Models
+
 Overview
+
 This repository contains an in-depth analysis titled "Addressing Bias in Healthcare Algorithms: A Fairness Analysis of Predictive Models." The essay explores the topic of 
 algorithmic fairness in healthcare. The work centers around a study by Obermeyer et al., which demonstrates the impact of bias in an algorithm used to prioritize healthcare resources. 
 The paper includes a discussion on statistical fairness metrics and normative considerations discussed in STOR 390.
